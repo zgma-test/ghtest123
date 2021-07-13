@@ -1,0 +1,72 @@
+{
+  "EDITOR_STATE": {
+    "allProjectFiles": {
+      "5c497c49-37ab-41ad-a514-5f25e11e63ea": {
+        "id": "5c497c49-37ab-41ad-a514-5f25e11e63ea",
+        "parent": null,
+        "name": "GHTest123.js",
+        "type": "JS_LAMBDA",
+        "isDirectory": false,
+        "children": [],
+        "isRemovable": true,
+        "filePath": "GHTest123.js",
+        "cursor": {
+          "lineNumber": 2,
+          "column": 5
+        },
+        "config": {
+          "runtime": "nodejs14.x",
+          "handler": "handler",
+          "timeout": 60,
+          "memory": 128,
+          "layers": [],
+          "name": "GHTest123"
+        },
+        "triggers": [],
+        "lastUpdated": 1626156845631
+      }
+    },
+    "openFiles": [
+      "5c497c49-37ab-41ad-a514-5f25e11e63ea"
+    ],
+    "currentFileId": "5c497c49-37ab-41ad-a514-5f25e11e63ea",
+    "resources": {},
+    "customTemplate": {
+      "syntax": "JSON",
+      "overrideDefault": false,
+      "dialect": null,
+      "definitions": null
+    },
+    "envVariables": [
+      {
+        "lambdaId": "all",
+        "varKey": "SIGMA_AWS_ACC_ID",
+        "varValue": null,
+        "shouldPersist": false,
+        "displayOnly": false,
+        "editable": false
+      }
+    ],
+    "packageJSON": {
+      "dependencies": {}
+    }
+  },
+  "PROJECT_META": {
+    "sigmaVersion": "1.9.1",
+    "projectName": "GHTest123",
+    "projectDescription": "",
+    "projectVersion": "1.0.0",
+    "projectRegion": "us-east-1",
+    "platform": "AWS",
+    "language": "nodejs",
+    "platformRegions": {},
+    "lastSave": 1626156867545
+  },
+  "VCS_STATE": {
+    "provider": "GitHub",
+    "repo": {
+      "name": "ghtest123",
+      "url": "https://github.com/zgma-test/ghtest123"
+    }
+  }
+}
